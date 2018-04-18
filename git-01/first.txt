@@ -1,2 +1,12 @@
 abc
 
+<<<<<<< HEAD
+-Letters and Social Aims. Quotation and Originality. Ralph Waldo Emreson. ca 1820-1840.
+=======
+-Letters and Social Aims. Quotation and Originality. Ralph Waldo Emreson.  ca 1800s
+>>>>>>> 0f754f0... add date
+
+-Adding third line to file.
+
+To be or not to be, that is the question!
+
