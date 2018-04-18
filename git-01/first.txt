@@ -10,4 +10,7 @@ abc
 
 To be or not to be, that is the question!
 
+<<<<<<< HEAD
 Final text added Wednesday!
+=======
+>>>>>>> 39c449992067018168421fecd7fdd3af219d0395
